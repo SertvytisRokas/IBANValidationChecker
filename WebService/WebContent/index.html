@@ -1,0 +1,38 @@
+<html>
+<title>Web Application</title>
+</head>
+
+<body>
+<h3>Web Service App for IBAN number validation</H3>
+
+<hr>
+<h3>Choose function to validate IBAN number</h3>
+
+<h4>Single number validation</h4>
+
+<form action="/webApp/rest/validate/form" method="POST">
+    <p>
+        Please enter IBAN number: <input type="text" name="name">
+        <input type="submit" value="Submit"/>
+    </p>
+</form>
+
+<br>
+<h4>Text file list validation</h4>
+<p>FORMAT: Expample path: C:/Users/MyPC/SEB/filename (must be .txt file)</p>
+<p>FORMAT: name = filename.txt</p>
+<p>FORMAT: path = C:/Users/MyPC/SEB</p>
+<form action="/webApp/rest/validate/multiple" method="POST">
+    <p>
+        Please enter file name: <input type="text" name="name"><br>
+        Please enter file path: <input type="text" name="path"><br>
+        <input type="submit" value="Submit"/>
+
+    </p>
+</form>
+
+<hr>
+
+</body>
+
+</html>

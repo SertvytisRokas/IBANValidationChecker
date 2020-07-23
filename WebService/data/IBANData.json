@@ -1,0 +1,323 @@
+[
+  {
+  "country": "Albania",
+  "flag": "AL",
+  "length": 28
+},
+{
+  "country":"Andorra",
+  "flag":"AD",
+  "length":24
+},
+{
+  "country":"Austria",
+  "flag":"AT",
+  "length":20
+},
+{
+  "country":"Azerbaijan",
+  "flag":"AZ",
+  "length":28
+},
+{
+  "country":"Bahrain",
+  "flag":"BH",
+  "length":22
+},
+{
+  "country":"Belgium",
+  "flag":"BE",
+  "length":16
+},
+{
+  "country":"Bosnia and Herzegovina",
+  "flag":"BA",
+  "length":20
+},
+{
+  "country":"Brazil",
+  "flag":"BR",
+  "length":29
+},
+{
+  "country":"Bulgaria",
+  "flag":"BG",
+  "length":22
+},
+{
+  "country":"Costa Rica",
+  "flag":"CR",
+  "length":21
+},
+{
+  "country":"Croatia",
+  "flag":"HR",
+  "length":21
+},
+{
+  "country":"Cyprus",
+  "flag":"CY",
+  "length":28
+},
+{
+  "country":"Czech Republic",
+  "flag":"CZ",
+  "length":24
+},
+{
+  "country":"Denmark",
+  "flag":"DK",
+  "length":18
+},
+{
+  "country":"Dominican Republic",
+  "flag":"DO",
+  "length":28
+},
+{
+  "country":"Estonia",
+  "flag":"EE",
+  "length":20
+},
+{
+  "country":"Faroe Islands",
+  "flag":"FO",
+  "length":18
+},
+{
+  "country":"Finland",
+  "flag":"FI",
+  "length":18
+},
+{
+  "country":"France",
+  "flag":"FR",
+  "length":27
+},
+{
+  "country":"Georgia",
+  "flag":"GE",
+  "length":22
+},
+{
+  "country":"Germany",
+  "flag":"DE",
+  "length":22
+},
+{
+  "country":"Gibraltar",
+  "flag":"GI",
+  "length":23
+},
+{
+  "country":"Greece",
+  "flag":"GR",
+  "length":27
+},
+{
+  "country":"Greenland",
+  "flag":"GL",
+  "length":18
+},
+{
+  "country":"Guatemala",
+  "flag":"GT",
+  "length":28
+},
+{
+  "country":"Hungary",
+  "flag":"HU",
+  "length":28
+},
+{
+  "country":"Iceland",
+  "flag":"IS",
+  "length":26
+},
+{
+  "country":"Ireland",
+  "flag":"IE",
+  "length":22
+},
+{
+  "country":"Israel",
+  "flag":"IL",
+  "length":23
+},
+{
+  "country":"Italy",
+  "flag":"IT",
+  "length":27
+},
+{
+  "country":"Kazakhstan",
+  "flag":"KZ",
+  "length":20
+},
+{
+  "country":"Kuwait",
+  "flag":"KW",
+  "length":30
+},
+{
+  "country":"Latvia",
+  "flag":"LV",
+  "length":21
+},
+{
+  "country":"Lebanon",
+  "flag":"LB",
+  "length":28
+},
+{
+  "country":"Liechtenstein",
+  "flag":"LI",
+  "length":21
+},
+{
+  "country":"Lithuania",
+  "flag":"LT",
+  "length":20
+},
+{
+  "country":"Luxembourg",
+  "flag":"LU",
+  "length":20
+},
+{
+  "country":"Macedonia",
+  "flag":"MK",
+  "length":19
+},
+{
+  "country":"Malta",
+  "flag":"MT",
+  "length":31
+},
+{
+  "country":"Mauritania",
+  "flag":"MR",
+  "length":27
+},
+{
+  "country":"Mauritius",
+  "flag":"MU",
+  "length":30
+},
+{
+  "country":"Monaco",
+  "flag":"MC",
+  "length":27
+},
+{
+  "country":"Moldova",
+  "flag":"MD",
+  "length":24
+},
+{
+  "country":"Montenegro",
+  "flag":"ME",
+  "length":22
+},
+{
+  "country":"Netherlands",
+  "flag":"NL",
+  "length":18
+},
+{
+  "country":"Norway",
+  "flag":"NO",
+  "length":15
+},
+{
+  "country":"Pakistan",
+  "flag":"PK",
+  "length":24
+},
+{
+  "country":"Palestinian",
+  "flag":"PS",
+  "length":29
+},
+{
+  "country":"Poland",
+  "flag":"PL",
+  "length":28
+},
+{
+  "country":"Portugal",
+  "flag":"PT",
+  "length":25
+},
+{
+  "country":"Romania",
+  "flag":"RO",
+  "length":24
+},
+{
+  "country":"San Marino",
+  "flag":"SM",
+  "length":27
+},
+{
+  "country":"Saudi Arabia",
+  "flag":"SA",
+  "length":24
+},
+{
+  "country":"Serbia",
+  "flag":"RS",
+  "length":22
+},
+{
+  "country":"Slovakia",
+  "flag":"SK",
+  "length":24
+},
+{
+  "country":"Slovenia",
+  "flag":"SI",
+  "length":19
+},
+{
+  "country":"Spain",
+  "flag":"ES",
+  "length":24
+},
+{
+  "country":"Sweden",
+  "flag":"SE",
+  "length":24
+},
+{
+  "country":"Switzerland",
+  "flag":"CH",
+  "length":21
+},
+{
+  "country":"Tunisia",
+  "flag":"TN",
+  "length":24
+},
+{
+  "country":"Turkey",
+  "flag":"TR",
+  "length":26
+},
+{
+  "country":"United Arab Emirates",
+  "flag":"AE",
+  "length":23
+},
+{
+  "country":"United Kingdom",
+  "flag":"GB",
+  "length":22
+},
+{
+  "country":"Virgin Islands, British",
+  "flag":"VG",
+  "length":24
+}
+
+]
